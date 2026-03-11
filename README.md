@@ -4,17 +4,21 @@
 
 **공개 초안 v0.1 (2026년 3월)**
 
-이 저장소 혹은 페이지는 조원광의 **<마음의 구조와 자연어 처리> 강의**의 강의안과 관련 자료를 모아 놓은 곳입니다.
+이 프로젝트는 조원광의 **<마음의 구조와 자연어 처리> 강의**의 강의안과 관련 자료를 모아 놓은 곳입니다.
 현재 공개된 자료는 **초안 형태의 강의 노트**를 중심으로 구성되어 있습니다. 
 향후 **지속적으로 수정·확장될 예정입니다.**
 
-이 저장소는 하나의 완결된 프로젝트가 아니라, **연구와 교육 과정 속에서 계속 발전하는 공개 강의 자료(open educational resource)**의 성격을 갖습니다.
+이 프로젝트는 완결된 결과가 아니라, **연구와 교육 과정 속에서 계속 발전하는 공개 강의 자료(open educational resource)**의 성격을 갖습니다.
 강의 노트, 코드 예제, 데이터 처리 과정 등이 점차 추가되며 업데이트될 예정입니다.
 
 이 강의 자료의 원본 노트북, 환경 파일, 설정 파일은 아래 GitHub 저장소에서 확인할 수 있습니다.
 
 GitHub 저장소:  
 https://github.com/devwonkwang/mind-structure-nlp
+
+이 강의 자료의 웹 버전은 아래에서 확인할 수 있습니다.
+
+https://devwonkwang.github.io/mind-structure-nlp/
 
 ---
 
@@ -102,7 +106,7 @@ conda activate mind-nlp-core
 
 ## Author
 
-**조원광 (Wonkwang Jo)**  
+**조원광 (Wonkwang Jo)**   
 Seoul National University  
 Graduate School of Public Health
 

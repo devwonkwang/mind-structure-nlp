@@ -102,7 +102,7 @@ conda activate mind-nlp-core
 
 ## Author
 
-**조원광 (Wonkwang Jo)**
+**조원광 (Wonkwang Jo)**  
 Seoul National University  
 Graduate School of Public Health
 

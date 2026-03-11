@@ -1,0 +1,5 @@
+/* widen main content area */
+
+.bd-article-container {
+    max-width: 1100px;
+}

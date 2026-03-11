@@ -1,0 +1,21 @@
+name: mind-nlp-core
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+  - numpy=1.23
+  - scipy=1.10.1
+  - pandas=1.5
+  - matplotlib=3.7
+  - openpyxl
+  - scikit-learn=1.2
+  - networkx=3.1
+  - jupyterlab
+  - ipykernel
+  - pip
+  - pip:
+      - gensim==4.3.0
+      - kiwipiepy
+      - tokenizers==0.15.0

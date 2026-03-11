@@ -1,0 +1,21 @@
+title: "마음의 구조와 자연어 처리"
+author: "조원광 (Wonkwang Jo)"
+language: "ko"
+copyright: "2026 Wonkwang Jo"
+logo: _static/figures/logo.png
+
+execute:
+  execute_notebooks: "off"
+  timeout: 60
+
+html:
+  favicon: _static/figures/logo.png
+  use_repository_button: false
+  use_edit_page_button: false
+  use_issues_button: false
+  extra_css:
+    - _static/custom.css
+
+sphinx:
+  config:
+    html_static_path: ["_static"]

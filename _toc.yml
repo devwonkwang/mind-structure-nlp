@@ -1,0 +1,21 @@
+format: jb-book
+root: README
+
+parts:
+  - caption: Part 1. 네트워크 과학을 활용한 분석
+    chapters:
+      - file: "Chapter 1 Introduction"
+      - file: "Chapter 2 Viewing Language as a Network"
+      - file: "Chapter 3 Analyzing Linguistic Data through Network Centrality"
+      - file: "Chapter 4 Community Detection Algorithms and Linguistic Data Analysis"
+      - file: "Chapter 5 Tokenization"
+
+  - caption: Part 2. 토픽 모델링을 활용한 분석
+    chapters:
+      - file: "Chapter 6 The Worldview of Topic Modeling"
+      - file: "Chapter 7 Approximating Posterior Distributions via Sampling"
+      - file: "Chapter 8 Approximating Posterior Distributions via Variational Inference"
+
+  - caption: Part 3. 신경망과 딥러닝 알고리즘을 활용한 분석
+    chapters:
+      - file: "Chapter 10 Fundamentals of Neural Networks and Deep Learning"

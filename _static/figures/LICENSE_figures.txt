@@ -1,0 +1,58 @@
+# Image License and Attribution Information
+This file lists the sources and licenses for all images included in the "figures/" directory.
+All images are used in accordance with their respective Creative Commons or public domain licenses.
+When reused, please retain the corresponding attribution lines below.
+
+---
+
+Pierre_Bourdieu_(1).jpg  
+  By Bernard Lambert – Own work, CC BY-SA 4.0, via Wikimedia Commons  
+  https://commons.wikimedia.org/wiki/File:Pierre_Bourdieu_(1).jpg  
+
+Richard_Nisbett,_2014-1.jpg  
+  By UQx Think101 – Episode 3 − Know Thyself?: Uncut conversation with Richard Nisbett (frame grab, 13:06), CC BY 3.0, via Wikimedia Commons  
+  https://commons.wikimedia.org/wiki/File:Richard_Nisbett,_2014-1.jpg  
+
+Michel_Foucault_1974_Brasil.jpg  
+  Public domain – Source: http://imagem.sian.an.gov.br/acervo/derivadas/BR_RJANRIO_EH/0/FOT/PPU/07879/BR_RJANRIO_EH_0_FOT_PPU_07879_d0014de0022.pdf  
+  via Wikimedia Commons  
+  https://commons.wikimedia.org/wiki/File:Michel_Foucault_1974_Brasil.jpg  
+
+네트워크예시(모레노).jpg  
+  By Martin Grandjean – Own work, CC BY-SA 4.0, via Wikimedia Commons  
+  https://commons.wikimedia.org/wiki/File:Social_Network_Analysis_Visualization.png  
+
+structural hole.jpg  
+  By Backstrnt – Own work, CC BY-SA 4.0, via Wikimedia Commons  
+  https://commons.wikimedia.org/wiki/File:Structural_hole.png  
+
+simple_network_image.jpg  
+  Adapted from M. E. J. Newman (2018). *Networks: An Introduction*. Oxford University Press.  
+  Illustration by Wonkwang Jo (2025).  
+
+directed_network_image.jpg  
+  Adapted from M. E. J. Newman (2018). *Networks: An Introduction*. Oxford University Press.  
+  Illustration by Wonkwang Jo (2025).  
+
+bipartite_network_image.jpg  
+  Matrix structure from M. E. J. Newman (2018), *Networks: An Introduction*. Oxford University Press.  
+  Visualization by Wonkwang Jo (2025).  
+
+onemode전환.jpg  
+  Author’s own illustration – © Wonkwang Jo, 2025.  
+
+뉴먼네트워크이미지 행렬.jpg  
+  Based on example matrices in M. E. J. Newman (2018), *Networks: An Introduction*.  
+  Visualization by Wonkwang Jo (2025).  
+
+뉴먼네트워크이미지 방향그래프 행렬.jpg  
+  Based on example matrices in M. E. J. Newman (2018), *Networks: An Introduction*.  
+  Visualization by Wonkwang Jo (2025).  
+
+뉴먼네트워크이미지 bipartite 행렬.jpg  
+  Based on example matrices in M. E. J. Newman (2018), *Networks: An Introduction*.  
+  Visualization by Wonkwang Jo (2025).  
+
+---
+
+All other figures not listed here are original works by Wonkwang Jo (2025) and may be reused under CC BY 4.0.

@@ -1,9 +1,9 @@
 /* widen main content area */
 
-.bd-page-width {
-    max-width: 1400px !important;
+.bd-main .bd-content .bd-article-container {
+    max-width: 1100px;
 }
 
-.bd-main .bd-content .bd-article-container {
-    max-width: 1100px !important;
+.bd-page-width {
+    max-width: 1400px;
 }

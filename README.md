@@ -116,6 +116,8 @@ Graduate School of Public Health
 
 ## License
 
+© Wonkwang Jo  
+
 CC BY-SA 4.0  
 (Creative Commons Attribution-ShareAlike 4.0 International)
 

@@ -116,8 +116,12 @@ Graduate School of Public Health
 
 ## License
 
-CC BY 4.0
-(Creative Commons Attribution 4.0 International)
+CC BY-SA 4.0  
+(Creative Commons Attribution-ShareAlike 4.0 International)
+
+이 자료는 Creative Commons Attribution-ShareAlike 4.0 International 라이선스에 따라 배포됩니다.  
+자세한 내용은 다음을 참고하십시오:  
+https://creativecommons.org/licenses/by-sa/4.0/
 
 ---
 

@@ -81,15 +81,7 @@ https://github.com/devwonkwang/mind-structure-nlp
 
 이 교재의 실습 코드를 실행하려면 **conda 환경**을 사용하는 것을 권장합니다.
 
-먼저 conda의 solver를 빠른 방식으로 설정합니다.
-(이 작업은 처음 한 번만 실행하면 됩니다.)
-
-```
-conda config --set solver libmamba
-conda config --set channel_priority strict
-```
-
-그 다음 아래 환경 중 하나를 생성합니다.
+아래 환경 중 하나를 생성합니다.
 
 ### 기본 환경 (Part 1–2)
 

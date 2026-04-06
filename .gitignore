@@ -4,3 +4,5 @@ _build/
 Thumbs.db
 
 materials/
+
+ratings_train.txt

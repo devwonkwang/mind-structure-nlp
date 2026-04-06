@@ -33,6 +33,14 @@ https://devwonkwang.github.io/mind-structure-nlp/
 GitHub 저장소는 아래와 같습니다:  
 https://github.com/devwonkwang/mind-structure-nlp
 
+
+## Update 소식
+
+- 2026년 4월: 11장 Word2Vec의 개요와 응용 추가  
+- 2026년 3월: 공개 초안 v0.1 배포  
+
+
+
 ---
 
 ## 전체 목차 (설계도)
@@ -64,7 +72,7 @@ https://github.com/devwonkwang/mind-structure-nlp
 ### Part 3. 신경망/딥러닝 모델을 활용한 분석
 
 10. 신경망 알고리즘 기초
-11. Word2Vec의 개요와 응용 (추가 예정)
+11. Word2Vec의 개요와 응용
 12. RNN의 취지, 한계, 그리고 극복 시도들 (추가 예정)
 13. 셀프 어텐션과 트랜스포머 (추가 예정)
 14. GPT와 BERT를 활용한 연구 사례 (추가 예정)

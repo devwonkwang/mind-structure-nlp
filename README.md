@@ -36,6 +36,7 @@ https://github.com/devwonkwang/mind-structure-nlp
 
 ## Update 소식
 
+- 2026년 6월: 12장 RNN이라는 발상과 그 한계 추가
 - 2026년 4월: 11장 Word2Vec의 개요와 응용 추가  
 - 2026년 3월: 공개 초안 v0.1 배포  
 

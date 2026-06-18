@@ -20,3 +20,4 @@ parts:
     chapters:
       - file: "Chapter 10 Fundamentals of Neural Networks and Deep Learning"
       - file: "Chapter_11_Word2Vec_Overview_and_Applications"
+      - file: "Chapter_12_RNN"

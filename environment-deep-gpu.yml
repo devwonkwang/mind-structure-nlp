@@ -15,6 +15,7 @@ dependencies:
   - scikit-learn=1.2
   - networkx=3.1
   - jupyterlab
+  - ipywidgets
   - ipykernel
   - pytorch=2.1
   - torchvision=0.16
@@ -26,4 +27,7 @@ dependencies:
       - kiwipiepy
       - tokenizers==0.15.0
       - transformers==4.36.2
-      - datasets==2.14.6
+      - datasets==2.19.2
+      - pyarrow==20.0.0
+      - sacrebleu==2.4.3
+      - tqdm

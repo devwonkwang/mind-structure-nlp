@@ -2,7 +2,7 @@ name: mind-nlp-deep-cpu
 channels:
   - pytorch
   - conda-forge
-  - defaults
+  - nodefaults
 
 dependencies:
   - python=3.10

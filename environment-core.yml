@@ -1,7 +1,7 @@
 name: mind-nlp-core
 channels:
   - conda-forge
-  - defaults
+  - nodefaults
 
 dependencies:
   - python=3.10

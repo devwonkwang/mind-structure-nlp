@@ -93,19 +93,19 @@ https://github.com/devwonkwang/mind-structure-nlp
 ### 기본 환경 (Part 1–2)
 
 ```
-conda env create -f environment-core.yml
+conda env create -f environment-core.yml --solver=libmamba
 ```
 
 ### 딥러닝 CPU 환경 (Part 3)
 
 ```
-conda env create -f environment-deep-cpu.yml
+conda env create -f environment-deep-cpu.yml --solver=libmamba
 ```
 
 ### 딥러닝 GPU 환경 (Part 3, GPU 사용 가능 시)
 
 ```
-conda env create -f environment-deep-gpu.yml
+conda env create -f environment-deep-gpu.yml --solver=libmamba
 ```
 
 환경 생성 후에는 예를 들어 다음과 같이 활성화할 수 있습니다.
